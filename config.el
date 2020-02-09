@@ -8,4 +8,5 @@
 
       org-directory "~/Documents/org/"
 
-      display-line-numbers-type t)
+      display-line-numbers-type t
+      projectile-project-search-path '("~/projects"))
